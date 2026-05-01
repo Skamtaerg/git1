@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/WD2.iml" filepath="$PROJECT_DIR$/.idea/WD2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/WD1.iml" filepath="$PROJECT_DIR$/.idea/WD1.iml" />
+>>>>>>> e767256 (Edit File1 and add NewFile in WD1)
     </modules>
   </component>
 </project>
